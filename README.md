@@ -61,6 +61,12 @@
  - Kanban
  - TDD &nbsp;<img src='https://2.bp.blogspot.com/-8AAM-g0SQMs/WanOeQXDT5I/AAAAAAAAAKc/bb2PsiQJHoY92WtloRDS9ou7Dw1l6q8PACLcBGAs/s1600/lmbs_testdrivendevelopmentcycle_small.png' style='height:25px; width:25px;'></img>
  
+# Models :
+- MVC
+- LA
+- EDA
+- SOA
+
 #    UI / UX :
  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)  
  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
