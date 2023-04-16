@@ -62,6 +62,9 @@ Student at Aen school
  #    Methodologies :
  - XP &nbsp;<img src='https://cdn1.iconfinder.com/data/icons/project-management-color-line-vol-1/512/EXTEME_PROGRAMMING-512.png' style='height:25px; width:25px;'></img>
  - Kanban
+ - Agile
+ - In V
+ - Waterfall
  - TDD &nbsp;<img src='https://2.bp.blogspot.com/-8AAM-g0SQMs/WanOeQXDT5I/AAAAAAAAAKc/bb2PsiQJHoY92WtloRDS9ou7Dw1l6q8PACLcBGAs/s1600/lmbs_testdrivendevelopmentcycle_small.png' style='height:25px; width:25px;'></img>
  
 # Models :
