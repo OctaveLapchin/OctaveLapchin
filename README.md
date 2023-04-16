@@ -17,7 +17,7 @@ Student at Aen school
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![TailWind](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![TailWind](https://img.shields.io/badge/tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind&logoColor=white)
  
  
 #    Back-End :
@@ -56,7 +56,8 @@ Student at Aen school
   ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
   ![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label=)
   ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
-  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=) 
+  ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+  ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=222222&logo=Angular&logoColor=61DAFB&label=)
  
  #    Methodologies :
  - XP &nbsp;<img src='https://cdn1.iconfinder.com/data/icons/project-management-color-line-vol-1/512/EXTEME_PROGRAMMING-512.png' style='height:25px; width:25px;'></img>
