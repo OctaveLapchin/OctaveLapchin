@@ -1,5 +1,6 @@
 # 💫 About Me:
 « I love IT in a while. »
+Student at Aen school
 
 
 ## 🌐 Socials:
@@ -56,7 +57,7 @@
   ![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label=)
   ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
  
- #    Méthodologies :
+ #    Methodologies :
  - XP &nbsp;<img src='https://cdn1.iconfinder.com/data/icons/project-management-color-line-vol-1/512/EXTEME_PROGRAMMING-512.png' style='height:25px; width:25px;'></img>
  - Kanban
  - TDD &nbsp;<img src='https://2.bp.blogspot.com/-8AAM-g0SQMs/WanOeQXDT5I/AAAAAAAAAKc/bb2PsiQJHoY92WtloRDS9ou7Dw1l6q8PACLcBGAs/s1600/lmbs_testdrivendevelopmentcycle_small.png' style='height:25px; width:25px;'></img>
