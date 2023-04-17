@@ -1,15 +1,15 @@
-# 💫 About Me:
+# 💫 About Me :
 « I love IT in a while. »
 Student at Aen school
 
 
-## 🌐 Socials:
+## 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Octave#4663) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/octave_lapchin) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/octave-lapchin-a88590253/)
 
 
-# 💻 DEVELOPER:
+# 💻 DEVELOPER :
 
 # Front-End:
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
