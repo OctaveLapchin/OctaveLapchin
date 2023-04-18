@@ -69,6 +69,7 @@ Student at Aen school
  
 # Models :
 - MVC
+- MVVM
 - LA
 - EDA
 - SOA
