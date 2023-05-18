@@ -49,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=octavelapchin&show_icons=true&locale=en" alt="octavelapchin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octavelapchin&" alt="octavelapchin" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=octavelapchin&" alt="octavelapchin" /></p>
