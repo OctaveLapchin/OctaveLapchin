@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine learning and AI**
 
-- 👨‍💻 All of my projects are available at [octave.octavelapchin.ovh](octave.octavelapchin.ovh)
+- 👨‍💻 All of my projects are available at [octave.octavelapchin.ovh](http://octave.octavelapchin.ovh)
 
-- 📝 I regularly write articles on [octave.octavelapchin.ovh/view/blog.php](octave.octavelapchin.ovh/view/blog.php)
+- 📝 I regularly write articles on [octave.octavelapchin.ovh/view/blog.php](http://octave.octavelapchin.ovh/view/blog.php)
 
 - 💬 Ask me about **Web, Android, Windows**
 
