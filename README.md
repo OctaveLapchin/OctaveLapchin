@@ -47,6 +47,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=octavelapchin&show_icons=true&locale=en&layout=compact" alt="octavelapchin" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=octavelapchin&show_icons=true&locale=en" alt="octavelapchin" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=octavelapchin&" alt="octavelapchin" /></p>
