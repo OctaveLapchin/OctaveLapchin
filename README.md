@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **octavelapchin@gmail.com**
 
-- 📄 Know about my experiences [I'm actually student.](I'm actually student.)
+- 📄 Know about my experiences (I'm actually student.)
 
 - ⚡ Fun fact **I think I'm a junior developer on the right way.**
 
