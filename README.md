@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [octave.octavelapchin.ovh](http://octave.octavelapchin.ovh)
 
+- 🧠 Where I learned [https://www.sololearn.com/profile/13398011](https://www.sololearn.com/profile/13398011)
+
 - 📝 I regularly write articles on [octave.octavelapchin.ovh/view/blog.php](http://octave.octavelapchin.ovh/view/blog.php)
 
 - 💬 Ask me about **Web, Android, Windows**
