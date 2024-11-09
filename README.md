@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web, Android, Windows**
 
-- 📫 How to reach me **octavelapchin@gmail.com**
+- 📫 How to reach me **octave@octavel.fr**
 
 - 📄 Know about my experiences (I'm actually student.)
 
