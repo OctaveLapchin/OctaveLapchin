@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=octavelapchin&label=Profile%20views&color=0e75b6&style=flat" alt="octavelapchin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=octavelapchin" alt="octavelapchin" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=octavelapchin)](https://noctave.fr/portfolio)
-
 - 🌱 I’m currently learning **Machine learning and AI**
 
 - 👨‍💻 All of my projects are available at [noctave.fr](https://noctave.fr)
