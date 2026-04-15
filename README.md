@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning and AI**
 
-- 👨‍💻 All of my projects are available at [noctave.fr](https://noctave.fr)
+- 👨‍💻 All of my projects are available at [noctave.fr](https://noctave.fr/portfolio)
 
 - 🧠 Where I learned [https://www.sololearn.com/profile/13398011](https://www.sololearn.com/profile/13398011)
 
